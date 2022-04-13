@@ -5,6 +5,7 @@
 
 This module provides a way of creating an managing API keys within SilverStripe. This can be useful for building RESTful
 and other APIs.
+change to readme made before I could merge my branch
 
 ## Requirements
 
